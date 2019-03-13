@@ -1,0 +1,4 @@
+1;mate;popescu
+2;info;ionescu
+5;apa;la
+6;aka;kaa

@@ -1,0 +1,11 @@
+1;ion
+2;ana
+3;alin
+4;maria
+5;andrei
+7;anastasia
+8;dorel
+9;pati
+10;pati
+11;apa
+6;pati

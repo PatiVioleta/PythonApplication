@@ -1,0 +1,17 @@
+pop;ana;140;Fundas
+pop;alin;170;Extrema
+pop;cristi;180;Pivot
+pope;bianca;120;Fundas
+pope;alin;160;Extrema
+alin;alin;200;Pivot
+ion;ion;200;Extrema
+ione;alin;210;Fundas
+ala;bala;160;Fundas
+par;hdg;190;Pivot
+istvan;sv;210;Extrema
+yo;yo;232;Pivot
+to;to;167;Fundas
+lu;lu;200;Extrema
+po;po;218;Extrema
+ana;ana;221;Extrema
+vlad;vlad;164;Extrema
